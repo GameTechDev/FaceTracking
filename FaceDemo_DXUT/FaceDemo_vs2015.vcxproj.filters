@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CameraImageRenderer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DXExtension.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Model.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sample.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Interface.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Math.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SkyBox.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CameraImageRenderer.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DXExtension.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Interface.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Model.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sample.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\resource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\resource_1.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Math.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SkyBox.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Config.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{dc1ad707-3c85-4ae4-825c-926d4e4260eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{1a4348e1-ddc8-43b1-b485-36a27cb564ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{67eecdba-cd54-463e-8183-49d2aa3fbe47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{7335a97b-4d0c-4d71-9815-2ef762d108d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Shader">
+      <UniqueIdentifier>{37a30cf2-8f42-45df-927c-564ce6410efc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Model">
+      <UniqueIdentifier>{5d2066b7-c7e1-4427-afb8-8924b15f1c0d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\Shader\Face.fx">
+      <Filter>Data\Shader</Filter>
+    </None>
+    <None Include="Data\Shader\SkyBox.fx">
+      <Filter>Data\Shader</Filter>
+    </None>
+    <None Include="Data\Model\Juezui_L.X">
+      <Filter>Data\Model</Filter>
+    </None>
+    <None Include="Data\Model\Juezui_R.X">
+      <Filter>Data\Model</Filter>
+    </None>
+    <None Include="Data\Model\Neutral.X">
+      <Filter>Data\Model</Filter>
+    </None>
+    <None Include="Data\Model\Wanzui_L.X">
+      <Filter>Data\Model</Filter>
+    </None>
+    <None Include="Data\Model\Wanzui_R.X">
+      <Filter>Data\Model</Filter>
+    </None>
+    <None Include="Data\Model\Xiawanzui.X">
+      <Filter>Data\Model</Filter>
+    </None>
+    <None Include="Data\Model\Zhangzui.X">
+      <Filter>Data\Model</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resource\face.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="Data\Model\Eyelash_D.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Eyelash_N.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Eyelash_S.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Eyes_D.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Eyes_Mask.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Eyes_N.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Eyes_S.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Face_D.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Face_N.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+    <Image Include="Data\Model\Face_S.tga">
+      <Filter>Data\Model</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource\face_tracking.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="Resource\FaceDemo.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
